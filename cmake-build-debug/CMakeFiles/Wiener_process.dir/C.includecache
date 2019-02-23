@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/Marsaglia_polar_generator.c
+math.h
+-
+Wiener.h
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/Wiener.h
+
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/PRNG_uniform.c
+stdlib.h
+-
+stdio.h
+-
+Wiener.h
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/Wiener.h
+
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/Wiener.h
+
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+Wiener.h
+/home/yrohanizadegan/Desktop/SDE project/Wiener_process/Wiener.h
+

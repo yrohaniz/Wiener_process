@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Wiener_process.dir/main.c.o CMakeFiles/Wiener_process.dir/PRNG_uniform.c.o CMakeFiles/Wiener_process.dir/Marsaglia_polar_generator.c.o  -o Wiener_process -lm 
